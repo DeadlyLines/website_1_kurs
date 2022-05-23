@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <card>
+         <ref>smart_clock1.html</ref>
+        <img>smart_clock1.svg</img>
+        <name>XIAOMI Redmi Watch 2 Lite Ivory (BHR5439GL/M2109W1)</name>
+        <cost>169руб</cost>
+    </card>
+
+    <card>
+         <ref>smart_clock2.html</ref>
+        <img>smart_clock2.svg</img>
+        <name>Haylou LS02</name>
+        <cost>89руб</cost>
+    </card>
+
+    <card>
+         <ref>smart_clock3.html</ref>
+        <img>smart_clock3.svg</img>
+        <name>Honor MagicWatch 2 (MNS-B39) Flax Brown</name>
+        <cost>399руб</cost>
+    </card>
+</items>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <card>  
+         <ref>robot_exhauster1.html</ref>
+        <img>robot_exhauster1.svg</img>
+        <name>Xiaomi Mi Robot Vacuum-Mop 2 Lite MJSTL (BHR5217EU)</name>
+        <cost>699руб</cost>
+    </card>
+
+    <card>
+        <ref>robot_exhauster2.html</ref>
+        <img>robot_exhauster2.svg</img>
+        <name>Xiaomi Mi Robot Vacuum-Mop 2 STYTJ03ZHM</name>
+        <cost>899руб</cost>
+    </card>
+
+    <card>
+        <ref>robot_exhauster3.html</ref>
+        <img>robot_exhauster3.svg</img>
+        <name>Xiaomi Mi Robot Vacuum-Mop 2 Pro MJST1SHW</name>
+        <cost>1 299руб</cost>
+    </card>
+</items>

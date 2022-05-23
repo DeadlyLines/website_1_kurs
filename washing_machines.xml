@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <card>
+        <ref>washing_machine1.html</ref>
+        <img>Machine1.svg</img>
+        <name>АТЛАНТ СМА 70С1010-00</name>
+        <cost>949руб</cost>
+    </card>
+
+    <card>
+        <ref>washing_machine2.html</ref>
+        <img>Machine2.svg</img>
+        <name>ATLANT СМА 60У105-00</name>
+        <cost>895руб</cost>
+    </card>
+
+    <card>
+        <ref>washing_machine3.html</ref>
+        <img>Machine3.svg</img>
+        <name>Candy AQUA 1D 1035-07</name>
+        <cost>1083руб</cost>
+    </card>
+</items>

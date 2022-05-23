@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <card>
+         <ref>fridge1.html</ref>
+        <img>fridge1.svg</img>
+        <name>ATLANT ХМ-4619-180</name>
+        <cost>1 163руб</cost>
+    </card>
+
+    <card>
+         <ref>fridge2.html</ref>
+        <img>fridge2.svg</img>
+        <name>ATLANT XM-4209-000</name>
+        <cost>863руб</cost>
+    </card>
+
+    <card>
+         <ref>fridge3.html</ref>
+        <img>fridge3.svg</img>
+        <name>Candy CCRN 6200S</name>
+        <cost>1 089руб</cost>
+    </card>
+</items>

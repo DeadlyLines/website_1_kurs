@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <card>
+         <ref>microwave1.html</ref>
+        <img>microwave1.svg</img>
+        <name>HORIZONT 20MW700-1378AAB</name>
+        <cost>219руб</cost>
+    </card>
+
+    <card>
+         <ref>microwave2.html</ref>
+        <img>microwave2.svg</img>
+        <name>LG MS2042DB</name>
+        <cost>359руб</cost>
+    </card>
+
+    <card>
+         <ref>microwave3.html</ref>
+        <img>microwave3.svg</img>
+        <name>REDMOND RM-2005D</name>
+        <cost>305руб</cost>
+    </card>
+</items>

@@ -1,0 +1,227 @@
+body {
+  font-family: "Mulish", sans-serif;
+  color: #737373;
+  line-height: 1.5;
+  font-size: 1rem; }
+
+html{
+  height:100%;
+  width: 100%;
+}
+
+#footer_form{
+  padding-top: 200px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+#zakaz{
+  width: 280px;
+}
+
+* {
+  padding: 0;
+  margin: 0; }
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 3px;
+  box-sizing: border-box;
+  max-width: 1330px;
+  margin: 0px auto; }
+
+.menu {
+  display: flex;
+  list-style: none; }
+
+.menu li {
+  margin-left: 94px;
+  font-size: 20px; }
+
+.menu li a {
+  color: #252B45;
+  text-decoration: none;
+  font-weight: 700; }
+
+.menu li a:hover {
+  color: #FA4A0C; }
+
+.workapp__wrap {
+  padding: 50px 0px; }
+
+.parttitle {
+  font-size: 2.75rem;
+  font-weight: 600;
+  text-align: center;
+  color: #000;
+  margin-bottom: 80px; }
+
+.workapp--item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 100px; }
+
+.workapp__img {
+  width: 47%;
+  text-align: center;
+  padding-left: 100px; }
+
+#first_in_raw{
+  padding-left: 0px;
+}
+
+.logo1 {
+  width: 300px;
+  height: 300px; }
+
+.workapp__txt {
+  width: 50%; }
+
+.workapp__txt h3 {
+  color: #fa4a0c;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 3.5rem;
+  margin-bottom: 20px; }
+
+.workapp__txt h2 {
+  color: #252b42;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 3.5rem;
+  margin-bottom: 20px; }
+
+.workapp__txt {
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 2.375rem; }
+
+.footer__wrap {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  border-top: solid;}
+
+.logoT {
+  width: 100px;
+  height: 100px; }
+
+.logoV {
+  width: 100px;
+  height: 100px; }
+
+.logoI {
+  width: 100px;
+  height: 100px; }
+
+.Visitor {
+  width: 100px;
+  height: 100px; }
+
+@media screen and (max-width: 800px) {
+  .header {
+    flex-direction: column; }
+
+  .logo {
+    margin-bottom: 30px; }
+
+  .menu li {
+    margin-left: 25px;
+    margin-right: 25px; }
+
+  .parttitle {
+    font-size: 1.5rem;
+    margin-bottom: 50px; }
+
+  .workapp--item {
+    flex-direction: column; }
+
+  .workapp__img {
+    padding-left: 0px;
+    width: 70%; }
+
+  .workapp__txt {
+    width: 70%; }
+
+  .workapp__txt h3 {
+    font-size: 1.25rem;
+    line-height: 2.5rem; }
+
+  .workapp__txt h2 {
+    font-size: 2rem;
+    line-height: 3rem; }
+
+  .logoT {
+    width: 75px;
+    height: 75px; }
+
+  .logoV {
+    width: 75px;
+    height: 75px; }
+
+  .logoI {
+    width: 75px;
+    height: 75px; }
+
+  .Visitor {
+    width: 75px;
+    height: 75px; } }
+@media screen and (max-width: 580px) {
+  .menu {
+    flex-wrap: wrap;
+    justify-content: center; }
+
+  .menu li {
+    margin-left: 10px 15px; }
+
+  .header {
+    width: 85%; }
+
+  .parttitle {
+    font-size: 1rem;
+    margin-bottom: 30px;
+    width: 95%; }
+
+  .logo1 {
+    width: 225px;
+    height: 225px; }
+
+  .workapp__img {
+    padding-left: 0px;
+    width: 85%; }
+
+  .workapp__txt {
+    width: 85%; }
+
+  .workapp__txt h3 {
+    font-size: 0.95rem;
+    line-height: 1.5rem; }
+
+  .workapp__txt h2 {
+    font-size: 1.1rem;
+    line-height: 2rem; }
+
+  .workapp__txt {
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 2rem; }
+
+  .logoT {
+    width: 50px;
+    height: 50px; }
+
+  .logoV {
+    width: 50px;
+    height: 50px; }
+
+  .logoI {
+    width: 50px;
+    height: 50px; }
+
+  .Visitor {
+    width: 50px;
+    height: 50px; } }
+
+/*# sourceMappingURL=style.css.map */

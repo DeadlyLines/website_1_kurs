@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <card>
+         <ref>exhauster1.html</ref>
+        <img>exhauster1.svg</img>
+        <name>KARCHER WD 2 (1.629-761.0)</name>
+        <cost>273руб</cost>
+    </card>
+
+    <card>
+         <ref>exhauster2.html</ref>
+        <img>exhauster2.svg</img>
+        <name>DEERMA DX700</name>
+        <cost>129руб</cost>
+    </card>
+
+    <card>
+         <ref>exhauster3.html</ref>
+        <img>exhauster3.svg</img>
+        <name>NORMANN AVC-212</name>
+        <cost>202руб</cost>
+    </card>
+</items>
